@@ -1,13 +1,24 @@
 # **FNP Sales Analysis Dashboard (Excel)**  
 
-## **Description**  
-This project focuses on analyzing and visualizing sales data for **FNP (Ferns N Petals)** to provide actionable insights into customer behavior, product performance, and seasonal trends. The dashboard is designed to assist stakeholders in making data-driven decisions about marketing strategies, inventory management, and operational improvements.  
+## **Project Overview**  
+This project focuses on analyzing and visualizing sales data for FNP (Ferns N Petals), a gifting company specializing in occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The objective is to analyze sales trends, customer behavior, and product performance to help the company improve its sales strategy and optimize customer satisfaction.  
+
+An interactive Excel dashboard was created to address key business questions related to revenue, customer spending, product performance, and seasonal trends.  
 
 ---
-# **FNP Sales Analysis Dashboard (Excel)**  
 
-## **Project Overview**  
-This project focuses on analyzing and visualizing sales data for FNP (Ferns N Petals). The dashboard provides actionable insights into customer behavior, product performance, and seasonal trends, enabling stakeholders to make informed decisions regarding marketing strategies, product focus, and operational efficiencies.  
+## **Problem Statement**  
+FNP wants to enhance its sales strategy by analyzing:  
+1. **Total Revenue** – Identify overall revenue trends.  
+2. **Average Order and Delivery Time** – Evaluate the time taken for orders to be delivered.  
+3. **Monthly Sales Performance** – Examine sales fluctuations across 2023.  
+4. **Top Products by Revenue** – Identify the best-selling products.  
+5. **Customer Spending Analysis** – Understand customer purchasing patterns.  
+6. **Sales Performance of Top 5 Products** – Track their performance.  
+7. **Top 10 Cities by Number of Orders** – Find the highest ordering locations.  
+8. **Order Quantity vs. Delivery Time** – Analyze if higher orders impact delivery speed.  
+9. **Revenue Comparison Between Occasions** – Compare revenue across different events.  
+10. **Product Popularity by Occasion** – Determine the most popular products per occasion.  
 
 ---
 
@@ -19,7 +30,7 @@ This project focuses on analyzing and visualizing sales data for FNP (Ferns N Pe
 
 ---
 
-## **Insights**  
+## **Insights Derived**  
 ### **Revenue by Occasion**  
 - Peak revenue during **Anniversary** and **Raksha Bandhan**, followed by **Diwali** and **Valentine's Day**.  
 
@@ -42,7 +53,7 @@ This project focuses on analyzing and visualizing sales data for FNP (Ferns N Pe
 
 ---
 
-## **Tools & Techniques**  
+## **Tools & Techniques Used**  
 - **Power Query:** For data cleaning and transformation.  
 - **Pivot Tables & Power Pivot:** For data modeling and analysis.  
 - **Charts & Slicers:** For creating an interactive dashboard.  
@@ -70,11 +81,7 @@ This project focuses on analyzing and visualizing sales data for FNP (Ferns N Pe
 
 ---
 
-## **License**  
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
 ## **Contributing**  
 Contributions are welcome! If you have suggestions or enhancements, feel free to fork the repository, make your changes, and submit a pull request.  
+
 
