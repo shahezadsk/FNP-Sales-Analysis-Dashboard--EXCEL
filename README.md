@@ -1,48 +1,80 @@
-# FNP-Sales-Analysis-Dashboard--EXCEL
-This project focuses on analyzing and visualizing sales data for FNP (Ferns N Petals) to derive actionable insights into customer behavior, product performance, and seasonal trends. The dashboard was developed to help stakeholders make informed decisions about marketing strategies, product focus, and operational efficiencies.
+# **FNP Sales Analysis Dashboard (Excel)**  
 
-Key Metrics:
-Total Orders: 1,000
-Total Revenue: ₹35,20,984
-Average Order Delivery Time: 5.53 days
-Average Customer Spending: ₹3,520.98
+## **Description**  
+This project focuses on analyzing and visualizing sales data for **FNP (Ferns N Petals)** to provide actionable insights into customer behavior, product performance, and seasonal trends. The dashboard is designed to assist stakeholders in making data-driven decisions about marketing strategies, inventory management, and operational improvements.  
 
-Insights:
-Revenue by Occasion:
-Peak revenue during Anniversary and Raksha Bandhan, followed by Diwali and Valentine's Day.
+---
+# **FNP Sales Analysis Dashboard (Excel)**  
 
-Revenue by Category:
-Highest revenue from Colors, followed by Soft Toys and Raksha Bandhan-themed products.
-Consistent performance from Cakes and Plants.
+## **Project Overview**  
+This project focuses on analyzing and visualizing sales data for FNP (Ferns N Petals). The dashboard provides actionable insights into customer behavior, product performance, and seasonal trends, enabling stakeholders to make informed decisions regarding marketing strategies, product focus, and operational efficiencies.  
 
-Revenue by Hour:
-Sales peak during late morning and early afternoon hours.
+---
 
-Revenue by Month:
-March and August recorded the highest revenue.
-Significant dips in April and November.
+## **Key Metrics**  
+- **Total Orders:** 1,000  
+- **Total Revenue:** ₹35,20,984  
+- **Average Order Delivery Time:** 5.53 days  
+- **Average Customer Spending:** ₹3,520.98  
 
-Top Products:
-Magnam Set and Harum Pack were the best performers.
+---
 
-Top Cities by Orders:
-High demand in Dhanbad, Imphal, and Bilaspur.
+## **Insights**  
+### **Revenue by Occasion**  
+- Peak revenue during **Anniversary** and **Raksha Bandhan**, followed by **Diwali** and **Valentine's Day**.  
 
-Tools & Techniques Used:
-Power Query: Data cleaning and transformation.
-Pivot Tables & Power Pivot: Data modeling and analysis.
-Charts & Slicers: Interactive visualizations.
+### **Revenue by Category**  
+- Highest revenue from **Colors**, followed by **Soft Toys** and **Raksha Bandhan-themed products**.  
+- Consistent performance from **Cakes** and **Plants**.  
 
-Use Cases:
-Identify high-revenue occasions and product categories.
-Optimize inventory and marketing strategies.
-Analyze geographical demand to plan targeted campaigns.
+### **Revenue by Hour**  
+- Sales peak during **late morning and early afternoon hours**.  
 
-Next Steps:
-Implement predictive analytics for sales forecasting.
-Integrate customer feedback to refine product offerings.
-Analyze underperforming months and categories for improvement.
+### **Revenue by Month**  
+- **March** and **August** recorded the highest revenue.  
+- Significant dips in **April** and **November**.  
 
+### **Top Products**  
+- **Magnam Set** and **Harum Pack** were the best performers.  
 
+### **Top Cities by Orders**  
+- High demand in **Dhanbad**, **Imphal**, and **Bilaspur**.  
 
+---
+
+## **Tools & Techniques**  
+- **Power Query:** For data cleaning and transformation.  
+- **Pivot Tables & Power Pivot:** For data modeling and analysis.  
+- **Charts & Slicers:** For creating an interactive dashboard.  
+
+---
+
+## **Use Cases**  
+- Identify high-revenue occasions and product categories.  
+- Optimize inventory and marketing strategies.  
+- Analyze geographical demand to plan targeted campaigns.  
+
+---
+
+## **Next Steps**  
+1. Implement predictive analytics for sales forecasting.  
+2. Integrate customer feedback to refine product offerings.  
+3. Analyze underperforming months and categories for improvement.  
+
+---
+
+## **How to Use This Repository**  
+1. Download the Excel file from the repository.  
+2. Open the file to view the interactive dashboard.  
+3. Explore the visuals, filters, and slicers to analyze the sales data based on specific requirements.  
+
+---
+
+## **License**  
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
+## **Contributing**  
+Contributions are welcome! If you have suggestions or enhancements, feel free to fork the repository, make your changes, and submit a pull request.  
 
